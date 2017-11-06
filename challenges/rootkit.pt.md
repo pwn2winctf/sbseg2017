@@ -6,4 +6,4 @@ Submeta no formato **CTF-BR{SenhaUsadaParaDump,UltimaSenhaRootLegitima}**.
 
 [Link](https://cloud.ufscar.br:8080/v1/AUTH_c93b694078064b4f81afd2266a502511/static.pwn2win.party/rootkit_3e4df5d6a3926cbc81ebf014a82098ad0964653aaedf581cd1bbc06eb3756642.tar.gz)
 
-[Mirror](https://static.pwn2win.party/rootkit_3e4df5d6a3926cbc81ebf014a82098ad0964653aaedf581cd1bbc06eb3756642.tar.gz)
+

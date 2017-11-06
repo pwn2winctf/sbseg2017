@@ -10,6 +10,6 @@ Reversing -> Web -> [*Flag Intermediária*] Misc -> Pivoting **[1]** -> Crypto/R
 
 [Link](https://cloud.ufscar.br:8080/v1/AUTH_c93b694078064b4f81afd2266a502511/static.pwn2win.party/attackstep_b0e0ef88238e52df2f0985cabd516e9d56d69b857588e2a6d24a90d723b82693.tar.gz)
 
-[Mirror](https://static.pwn2win.party/attackstep_b0e0ef88238e52df2f0985cabd516e9d56d69b857588e2a6d24a90d723b82693.tar.gz)
+
 
 

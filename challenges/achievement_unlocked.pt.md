@@ -2,4 +2,4 @@ Descobrimos que alguns dos achievements são comuns aos Bloodsuckers e Butcher C
 
 [Link](https://cloud.ufscar.br:8080/v1/AUTH_c93b694078064b4f81afd2266a502511/static.pwn2win.party/achievementunlocked_088a2d785c35acaed6cdf64afff1ecceb649690d9a4175ae6e6a7645bd1f3bbf.tar.gz)
 
-[Mirror](https://static.pwn2win.party/achievementunlocked_088a2d785c35acaed6cdf64afff1ecceb649690d9a4175ae6e6a7645bd1f3bbf.tar.gz)
+

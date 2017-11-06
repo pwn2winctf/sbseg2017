@@ -13,7 +13,7 @@ Welcome to Pwn2Win CTF 2017.
 
 3. All team members must clone the repository and install the dependencies:
    ```bash
-   git clone git@github.com:pwn2winctf/2017.git
+   git clone git@github.com:pwn2winctf/sbseg2017.git
    cd 2017
    sudo apt-get install libsodium18
    curl https://bootstrap.pypa.io/get-pip.py | sudo -H python
