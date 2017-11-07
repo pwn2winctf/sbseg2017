@@ -4,6 +4,6 @@ Um de nossos colaboradores conseguiu exfiltrar um arquivo GDSII que a ButcherCor
 
 O CI amostra o pino `in` na borda de subida do sinal de `clock`. Se a sequência de bits correta for apresentada ao IC, ele coloca o pino `unlocked` em nível lógico alto. Descubra essa sequência. Ela forma uma string em ASCII, que você deve submeter como flag.
 
-[Link](https://cloud.ufscar.br:8080/v1/AUTH_c93b694078064b4f81afd2266a502511/static.pwn2win.party/shiftreg_e7f285dccca5788b157d72e7fde31a92ed765c64ec86d56164426b7c1cde1625.tar.gz)
 
 
+[Link](https://static.pwn2win.party/shiftreg_e7f285dccca5788b157d72e7fde31a92ed765c64ec86d56164426b7c1cde1625.tar.gz)
