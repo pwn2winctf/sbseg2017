@@ -48,7 +48,7 @@ Welcome to the demonstration CTF for SBSEG2017.
 
 ## Challenges
 
-Challenges will be available at https://game.pwn2win.party.
+Challenges will be available at https://game.pwn2win.party/sbseg2017.
 
 If you prefer to browse them locally, you may also run a local webserver by typing `./ctf serve`, or list challenges through the command line interface:
 ```bash
@@ -66,7 +66,7 @@ You may omit `--chall chall-id` from the command, however it will be slower to r
 
 ## Scoreboard
 
-You can see the scoreboard in the game link (https://game.pwn2win.party), locally (if you ran the local webserver) or through the command line interface:
+You can see the scoreboard in the game link (https://game.pwn2win.party/sbseg2017), locally (if you ran the local webserver) or through the command line interface:
 ```bash
 ./ctf score --names --pull
 ```
