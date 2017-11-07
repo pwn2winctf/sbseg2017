@@ -1,6 +1,6 @@
-# Pwn2Win
+# Demo CTF for SBSEG2017
 
-Welcome to Pwn2Win CTF 2017.
+Welcome to the demonstration CTF for SBSEG2017.
 
 ## Registration
 1. All team members must have a GitHub account and [configure a SSH key in their account settings](https://github.com/settings/keys).
