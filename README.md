@@ -14,7 +14,7 @@ Welcome to the demonstration CTF for SBSEG2017.
 3. All team members must clone the repository and install the dependencies:
    ```bash
    git clone git@github.com:pwn2winctf/sbseg2017.git
-   cd 2017
+   cd sbseg2017
    sudo apt-get install libsodium18
    curl https://bootstrap.pypa.io/get-pip.py | sudo -H python
    sudo -H python -m pip install -r pip-requirements.txt
@@ -35,7 +35,7 @@ Welcome to the demonstration CTF for SBSEG2017.
    ./ctf init
    ```
 
-6. After that, **the leader** must share the `team-secrets.json` with the members of the team. The **other members of the team** must place the `team-secrets.json` file shared by the leader in their `2017` directory.
+6. After that, **the leader** must share the `team-secrets.json` with the members of the team. The **other members of the team** must place the `team-secrets.json` file shared by the leader in their `sbseg2017` directory.
 
 7. The **other members of the team** must login to GitHub without registering a new team, by running:
    ```bash
